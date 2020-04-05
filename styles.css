@@ -1,0 +1,36 @@
+a:hover{
+    background: magenta;
+}
+.button {
+    background-color: crimson;
+    color: black;
+    size: 32px;
+}
+body {
+    background-color: darkslategrey;
+
+}
+p {
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+}
+.list {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+h5 {
+    font-size: 32px;
+    color: red;
+}
+h1 {
+    color: red;
+}
+.button2 {
+    color: red;
+    background-color: green;
+}
+h2 {
+    color: hotpink;
+}
