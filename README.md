@@ -1,2 +1,10 @@
 # NekoCarreraDesigns.github.
-This is my second homework assignment for the DU coding bootcamp. I had fun with this assignment, creating the protfolio page was my favorite part. Bootstrap is great for somethings, since I enjoy coding css it takes the fun away. 
+This is the updated version of my portfolio page featuring some of the applications that I have developed for the DU coding bootcamp. 
+
+featuring the Hockey Quiz that I developed for one of the homework assignments, this was my favoritie one to develop not just because I love hockey, also because I really got to have fun with the design aspect of the app. Some future additions include a gif after getting a perfect score.
+
+It also features the first project that I helped to develop for the bootcamp with my classmates, who along with myself made a great team, there was excellent communication, division of labor, and they both helped with the presentation, future developments are in the works as we speak, the bold styling definitely caught peoples attention.
+
+I included the dayplanner app because I felt it was the third best application that I have developed, although its incredibly simple, it makes a statement without being over the top, without a bunch of unnecessary features.
+
+links to the applications, and the repositories can be found on the porfolio page.
