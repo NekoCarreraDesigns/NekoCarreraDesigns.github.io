@@ -1,10 +1,57 @@
-# NekoCarreraDesigns.github.
-This is the updated version of my portfolio page featuring some of the applications that I have developed for the DU coding bootcamp. 
 
-featuring the Hockey Quiz that I developed for one of the homework assignments, this was my favoritie one to develop not just because I love hockey, also because I really got to have fun with the design aspect of the app. Some future additions include a gif after getting a perfect score.
+  # Title: Neko Carrera Designs portfolio page
 
-It also features the first project and second project that I helped to develop for the bootcamp with my classmates, who along with myself made a great team, there was excellent communication, division of labor, and they all helped with the presentation, future developments are in the works as we speak, the bold styling definitely caught peoples attention.
+  ![last commit](https://img.shields.io/github/last-commit/NekoCarreraDesigns/NekoCarreraDesigns.github.io?style=flat-square)![license badge](https://img.shields.io/github/license/NekoCarreraDesigns/NekoCarreraDesigns.github.io?style=flat-square)
 
-I included the dayplanner app because I felt it was the third best application that I have developed, although its incredibly simple, it makes a statement without being over the top, without a bunch of unnecessary features, there is a few more apps that I have included as well
+  ### URL: https://nekocarreradesigns.github.io
 
-links to the applications, and the repositories can be found on the porfolio page.
+  ## Description 
+  
+  Portfolio page about me Nicholas C. Maas, and all the apps, and projects I have developed
+
+  ## Table of Contents 
+   
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Future Developments](#futureDevelopments)
+  * [Credits](#credits)
+  * [Questions](#questions)
+  
+  ## Installation 
+  ``  After getting my permission via e-mail, you may clone my repo, and run in default browser
+  ``  
+  ## Usage 
+  
+  Show off the goods
+
+  ## Future Developments
+
+  undefined
+
+  ## Credits
+
+  * html
+
+* css3
+
+* [Bootstrap](https://getbootstrap.com/)
+
+* [Font Awesome](https://fontawesome.com/)
+
+  ## Contributors: 
+  
+  Nicholas C. Maas
+
+  ## Questions?
+
+  Contact me at  [denvernick@hotmail.com]
+  
+  or[![Follow on Github] (https://img.shields.io/github/followers/NekoCarreraDesigns?label=Follow&style=social)](http://www.github.com/NekoCarreraDesigns)
+
+  Copyright © 2020 Nicholas C. Maas (http://www.github.com/NekoCarreraDesigns)
+
+  ---
+
+  ##### _Created with [NekoCarreraDesigns readme generator] (https://github.com/NekoCarreraDesigns/readme-generator)
+
+  
